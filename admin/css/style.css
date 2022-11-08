@@ -1,0 +1,30 @@
+.sidebar-content{
+    background:#29934e;
+}
+
+.sidebar-link,a.sidebar-link{
+    background:#29934e;
+}
+
+.sidebar-link:hover{
+    background:#29934e;
+}
+
+.wrapper{
+    background:#29934e;
+}
+
+.sidebar-item.active .sidebar-link:hover,.sidebar-item.active>.sidebar-link{
+    background:linear-gradient(90deg,#128205,#29934e 90%,transparent);
+    border-left-color:#128205;color:#e9ecef
+}
+
+.stat{
+    background:#c6f1cb;
+}
+
+/* .stat svg{
+    stroke-width:1.5;
+    color:#3b7ddd
+    !important;height:18px;width:18px
+} */
